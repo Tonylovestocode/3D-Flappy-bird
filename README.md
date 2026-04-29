@@ -2,6 +2,21 @@
 
 A simple browser-based **3D Flappy Bird** clone built with Three.js.
 
+## Play on GitHub Pages (recommended)
+
+This repo includes a GitHub Actions workflow that deploys the game automatically when you push to `main`.
+
+### One-time setup
+
+1. Push this repo to GitHub.
+2. Go to **Settings → Pages**.
+3. Under **Source**, choose **GitHub Actions**.
+4. Push to `main` (or run the workflow manually from **Actions**).
+
+After deployment, your game will be live at:
+
+- `https://<your-username>.github.io/<repo-name>/`
+
 ## Open and run in VS Code
 
 1. Open this folder in VS Code.
