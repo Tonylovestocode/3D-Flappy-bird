@@ -15,7 +15,7 @@ This repo includes a GitHub Actions workflow that deploys the game automatically
 
 After deployment, your game will be live at:
 
-- `https://<your-username>.github.io/<repo-name>/`
+- `https://tonylovestocode.github.io/3D-Flappy-bird/`
 
 ## Open and run in VS Code
 
